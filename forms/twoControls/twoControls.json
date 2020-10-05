@@ -2,7 +2,7 @@
   "!type": "Form",
   "HTML": null,
   "attributes": "",
-  "background": "",
+  "background": "#D3D3D3",
   "backgroundimage": "",
   "borderColor": "",
   "borderStyle": "",
@@ -14,27 +14,36 @@
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "twoControls",
         "Elements",
-        "inptMemberName.json"
+        "Twitter1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "twoControls",
         "Elements",
-        "btnRun.json"
+        "Facebook1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "twoControls",
         "Elements",
-        "lblResponse.json"
+        "lblFacebook.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "twoControls",
+        "Elements",
+        "lblTwitter.json"
       ]
     }
   ],
@@ -44,7 +53,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "membership",
+  "id": "twoControls",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -57,8 +66,6 @@
   "parentForm": "",
   "position": "absolute",
   "script": null,
-  "scroll_options": "mouseWheel:true, bounce:true, zoom:false",
-  "scrolling": "false",
   "setFocusID": "",
   "style": "",
   "theme": "",
