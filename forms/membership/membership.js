@@ -1,9 +1,3 @@
-<<<<<<< Updated upstream
-/*
-let members = ["Mary","Sam","Joey","Paul","Mike","Char","Jenny","Kennedy","Kaden","Kurt","Anne"]
-*/
-
-=======
 
 //defined memberName
 let memberName = " "
@@ -21,4 +15,3 @@ btnRun.onclick=function(){
     members.push(memberName)
   }
 }
->>>>>>> Stashed changes
